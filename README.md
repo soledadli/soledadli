@@ -1,8 +1,5 @@
-### Hi there 👋
+### Hi there 🍎 I am Soledad, a good friend with Mrs. Hedgehog. 
 
- is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently studying Digital Sciences at Université de Paris. 
 - 🌱 I hold a bachelor degree in Humanities with a focus on inclusive theater at Bard College Berlin. 
