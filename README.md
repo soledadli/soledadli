@@ -6,4 +6,5 @@
 - 🙋 I’m looking for opportunities in joining front-end development for open source projects. 
 - 🦔 How to reach me: soledad.lxj@gmail.com
 - ⚡ Fun fact: I love eating 🥦 and 🥕, but I am afraid of 🐰!
-
+- Found me on Codewars: [S.li](https://www.codewars.com/users/s.li)
+- <img src=https://www.codewars.com/users/s.li/badges/small>
